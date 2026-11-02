@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # karamtechnology_services
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Service_Report
+Service Report Application, that can be able to use any companies. Structure Designed based on the purpose of usage of any companies, sign up and register their company's by company's details and create, save, download their services with clean structure
+>>>>>>> 899ffc9670ffc316bcc1f926175dcfd02f7ef407
