@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625741132993",
+    "project_id": "services-report-karam",
+    "storage_bucket": "services-report-karam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625741132993:android:1f308c5f7754befcc41040",
+        "android_client_info": {
+          "package_name": "com.example.karamtechnology_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85D4R4WC9BVnCng3958htttLhJdDd75U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
